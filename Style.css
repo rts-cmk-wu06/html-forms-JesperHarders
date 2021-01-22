@@ -1,0 +1,19 @@
+ul{
+    list-style-type: none;
+    background-color: #66d9ff;
+}
+
+li{
+    line-height: 1.5em;
+    margin: 10px;
+}
+
+fieldset{
+    width: 20%;
+    background-color: #00ace6;
+}
+
+button{
+    background-color: #e6e6e6;
+    border-radius: 35%;
+}
